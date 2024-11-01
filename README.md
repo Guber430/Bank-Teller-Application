@@ -1,1 +1,1 @@
-# Bank-Teller-Application
+Developed a simulated bank teller application using C# and XAML, implementing object-oriented programming concepts to manage multiple bank account types. The application features an event-driven user interface, allowing users to perform transactions and update account information seamlessly.
